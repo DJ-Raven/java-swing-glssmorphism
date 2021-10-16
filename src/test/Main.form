@@ -39,7 +39,7 @@
   <SubComponents>
     <Container class="test.PanelTransparent" name="panelTransparent1">
       <Properties>
-        <Property name="transparent" type="float" value="0.5"/>
+        <Property name="transparent" type="float" value="0.3"/>
       </Properties>
 
       <Layout>
@@ -47,7 +47,7 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace max="-2" attributes="0"/>
-                  <Component id="jLabel1" pref="1099" max="32767" attributes="0"/>
+                  <Component id="jLabel1" pref="928" max="32767" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
           </Group>
@@ -56,7 +56,7 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace max="-2" attributes="0"/>
-                  <Component id="jLabel1" pref="544" max="32767" attributes="0"/>
+                  <Component id="jLabel1" pref="505" max="32767" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
           </Group>
